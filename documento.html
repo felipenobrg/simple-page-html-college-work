@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inputs</title>
+</head>
+<body style="margin: 0;">
+    <header style="text-align: center; background-color: #131313; color: #A113FF; padding: 0.2em; margin: 0;">
+        <div>
+          <h2 style="font-size: 3rem;">HTML <sup>Linguagem de Marcação de Hipertexto</sup></h2>
+          <h2>Tutorial para Iniciantes</h2>
+        </div>
+      </header>
+
+    <hr>
+
+    <h1 style="text-align: center;">Formulário</h1>
+    <section style="text-align: center;">
+    <form method="get" action="obrigado.html">
+    <label>Nome:</label>
+    <input type="text" name="name" required>
+    <br>
+
+    <label>E-mail:</label>
+    <input type="email" name="email" required>
+    <br>
+
+    <label>Senha:</label>
+    <input type="password" name="senha" required>
+    <br>
+
+    <label>Assunto:</label>
+    <select required>
+    <option value="sugestao">Sugestao</option>
+    <option value="critica">Critica</option>
+    <option value="curiosidade">Curiosidade</option>
+    <option value="elogio" selected>Elogio</option>
+    </select>
+    <br>
+
+    <label>Mensagem:</label>
+    <textarea name="mensagem" cols="10" rows="1" required></textarea>
+    <br>
+    
+
+    <input type="checkbox" name="termo" value="Concordo com os Termos" required>
+    <label>Concordo com os Termos de Privacidade do Site</label>
+    <br>
+    <input type="submit" required> Enviar formulario</input>
+    <input type="reset" value="Apagar">
+    </form>
+    </section>
+</body>
+</html>
