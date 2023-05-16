@@ -1,8 +1,5 @@
 <h1 align="center"> Page HTML </h1>
 
-<p align="center">
-  <a href="#-project">Project:</a>&nbsp;&nbsp;&nbsp;
-</p>
 
 ## 🚀 Technologies
 
