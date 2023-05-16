@@ -1,9 +1,7 @@
 <h1 align="center"> Page HTML </h1>
 
 <p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias"> Technologies </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
+  <a href="#-project">Project:</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🚀 Technologies
@@ -15,4 +13,4 @@ This project was developed using the following technologies:
 
 ---
 
-[My profile in Linkedln](https://www.linkedin.com/in/felipenobrg)
+[Link of Project](https://felipenobrg.github.io/pagina-html-atividade-avalitiva-daniel-brandao/)
